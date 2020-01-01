@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Dec 30 17:58:57 2019
-
 @author: Ramya Aravind
 """
 
